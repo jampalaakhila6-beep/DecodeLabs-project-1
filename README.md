@@ -43,7 +43,7 @@ decodelabs-project1-static-webpage/
 │
 ├── index.html
 ├── style.css
-├── Yogender.jpeg
+├── pika pik.jpeg
 └── README.md
 👩‍💻 About Me
 jampala akhila
@@ -83,7 +83,7 @@ The website is fully responsive and adapts seamlessly to:
 📱 Mobile Phones
 📟 Tablets
 🔗 Contact
-📧 Email: yogendarverma0268@gmail.com
+📧 Email: jampalaakhila6@gmail.com
 
 📍 Location: Hyderabad, Telangana, India
 
